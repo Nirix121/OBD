@@ -1,6 +1,6 @@
-# OBD
-# Original. Basic. Ddos
- ======================== OBD help   ==================
+OBD
+Original. Basic. Ddos
+ OBD help   ==================
    -h/help   | showing this message
    -url      | set target url
    -m/mode   | set program mode
@@ -15,10 +15,10 @@
    -s        | set attack time(default:60)
    -down     | download proxies
    -check    | check proxies
-=====================================================
+==============================
 
 pip3 install requests pysocks
 git clone https://github.com/Nirix121/OBD.git
 cd  OBD
 
-=====================================================
+=============================
