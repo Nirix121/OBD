@@ -17,8 +17,8 @@ Original. Basic. Ddos
    -check   | check proxies
 #==============================
 
-pip3 install requests pysocks
-git clone https://github.com/Nirix121/OBD.git
-cd  OBD
+|pip3 install requests pysocks
+|git clone https://github.com/Nirix121/OBD.git
+|cd  OBD
 
 =============================
